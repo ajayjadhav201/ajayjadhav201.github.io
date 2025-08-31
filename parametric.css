@@ -25,6 +25,8 @@
 /* HEADER */
  .profile-image {
      filter: grayscale(100%);
+     width:192px;
+     height:192px;
 }
  .is-192x192 {
      width:192px;
